@@ -1,4 +1,4 @@
-![Logo Cake](http://cakephp.org/img/default/cake-logo.png)
+![Logo Cake](https://cakephp.org/img/cake-logo.svg)
 
 # Aprendendo Cake PHP
 
